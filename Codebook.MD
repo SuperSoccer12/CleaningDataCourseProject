@@ -7,7 +7,7 @@ The first row contains the names of the variables, which are listed and describe
 
 ## Variables <a name="variables"></a>
 
-Each row contains, for a given subject and activity, 79 averaged signal measurements.
+Each row contains 79 averaged signal measurements grouped by subject and activity.
 
 ## Transformations <a name="transformations"></a>
 

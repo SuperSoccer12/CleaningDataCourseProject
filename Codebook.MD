@@ -11,8 +11,6 @@ Each row contains 79 averaged signal measurements grouped by subject and activit
 
 ## Transformations <a name="transformations"></a>
 
-The zip file containing the source data is located at [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
-
 The following transformations were applied to the source data:
 
 - 1. The training and test sets were merged to create one data set.
